@@ -184,7 +184,7 @@ a[href^="tel"]::before {
   }
 }
 @media (max-width: 800px) {
-  #parentC {
+  #parentC, #personal, #education, #skills {
     width: 100%;
   }
 }
