@@ -1,10 +1,6 @@
 body {
   position: relative;
-  background-image: linear-gradient(
-      rgba(62, 61, 73, 0.8),
-      rgba(141, 79, 122, 0.7)
-    ),
-    url("images/IMG_3632.JPG");
+  background-image: linear-gradient( rgba(62, 61, 73, 0.8),  rgba(141, 79, 122, 0.7)), url("images/IMG_3632.jpg");
   background-size: cover;
   background-position: center;
   color: #fff !important;
@@ -110,6 +106,8 @@ a .fa:hover {
 }
 
 .grid-container {
+  width: 100%;
+  height: auto;
   display: grid;
   grid-template-columns: auto auto;
   padding: 10px;
@@ -188,7 +186,7 @@ a[href^="tel"]::before {
   font-size: xx-large;
 }
 
-@media (min-width: 960px) and (max-width: 1200px) {
+@media (min-width: 575.98px) and (max-width: 767.98px) {
   .landing,
   .grid-container,
   .container,
