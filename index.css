@@ -188,7 +188,7 @@ a[href^="tel"]::before {
   font-size: xx-large;
 }
 
-@media (min-width: 500px) and (max-width: 800px) {
+@media (min-width: 500px) and (max-width: 1200px) {
   .landing,
   .grid-container,
   .container,
