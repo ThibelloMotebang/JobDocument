@@ -1,6 +1,10 @@
 body {
   position: relative;
-  background-image: linear-gradient( rgba(62, 61, 73, 0.8),  rgba(141, 79, 122, 0.7)), url("images/IMG_3632_edited.jpg");
+  background-image: linear-gradient(
+      rgba(62, 61, 73, 0.8),
+      rgba(141, 79, 122, 0.7)
+    ),
+    url("images/IMG_3632_edited.jpg");
   background-size: cover;
   background-position: center;
   color: #fff !important;
@@ -93,7 +97,7 @@ a .fa:hover {
 }
 
 .grid-item {
-    width: 100%;
+  width: 100%;
   background-color: rgba(24, 9, 66, 0.8);
   border: 1px solid rgba(139, 124, 124, 0.8);
   padding: 25px;
@@ -166,7 +170,7 @@ a[href^="tel"]::before {
   font-size: xx-large;
 }
 
-@media screen and (min-width: 800px) and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .landing,
   .grid-container,
   .container,
@@ -177,5 +181,10 @@ a[href^="tel"]::before {
     float: left;
     padding: 0;
     margin: 3%;
+  }
+}
+@media (max-width: 800px) {
+  #parentC {
+    width: 100%;
   }
 }
