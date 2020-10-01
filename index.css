@@ -180,7 +180,6 @@ a[href^="tel"]::before {
     width: 100%;
     float: left;
     padding: 0;
-    margin: 3%;
   }
 }
 @media (max-width: 800px) {
