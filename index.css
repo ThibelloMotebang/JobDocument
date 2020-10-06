@@ -208,6 +208,11 @@ a[href^="tel"]::before {
     padding: 0;
   }
 }
+
+.container{
+  background-image: url("/JobDocument/images/lightning.jpg");
+}
+
 @media (max-width: 800px) {
   #parentC, #personal, #education, #skills {
     width: 100%;
