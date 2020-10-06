@@ -131,6 +131,11 @@ a .fa:hover {
   color: peru;
 }
 
+.grid-itemA{
+  width: 100%;
+  background-color: rgba(24, 9, 66, 0.8);
+}
+
 .profile-image-wrapper img {
   width: 100%;
   border-radius: 45%;
