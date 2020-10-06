@@ -241,11 +241,5 @@ a[href^="tel"]::before {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
-  width: 100%;
 }
 
-/*@media (max-width: 420px) {
-  #parentC, #personal, #education, #skills {
-    width: 100%;
-  }
-}*/
