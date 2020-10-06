@@ -209,7 +209,7 @@ a[href^="tel"]::before {
   }
 }
 
-.home{
+#home{
   background-image: url("/JobDocument/images/lightning.jpg");
   background-repeat: no-repeat;
   background-size: cover;
