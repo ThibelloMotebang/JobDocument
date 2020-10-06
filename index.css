@@ -233,6 +233,13 @@ a[href^="tel"]::before {
   background-position: top;
 }
 
+#skills{
+  background-image: url("/JobDocument/images/fourth-back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
 @media (max-width: 800px) {
   #parentC, #personal, #education, #skills {
     width: 100%;
