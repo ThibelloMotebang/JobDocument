@@ -134,6 +134,8 @@ a .fa:hover {
 .grid-itemA{
   width: 100%;
   background-color: rgba(24, 9, 66, 0.8);
+  border: 1px solid rgba(139, 124, 124, 0.8);
+  padding: 25px;
 }
 
 .profile-image-wrapper img {
