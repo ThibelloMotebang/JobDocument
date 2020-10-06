@@ -102,6 +102,13 @@ a .fa:hover {
   grid-template-columns: auto auto;
   padding: 10px;
 }
+.grid-containerE{
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
 
 .phone{
   display: none;
