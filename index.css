@@ -193,7 +193,7 @@ a[href^="tel"]::before {
   .grid-container,
   .profile-image-wrapper img {
     width: 100%;
-    float: left;
+    float: center;
     padding: 0;
   }
 }
