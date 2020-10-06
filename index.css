@@ -219,6 +219,13 @@ a[href^="tel"]::before {
   margin: 0px;
 }
 
+#personal{
+  background-image: url("/JobDocument/images/lightning.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
 @media (max-width: 800px) {
   #parentC, #personal, #education, #skills {
     width: 100%;
