@@ -123,7 +123,7 @@ a .fa:hover {
 
 .grid-item {
   width: 100%;
-  background-color: rgba(24, 9, 66, 0.8);
+  background-color:#2b2531;
   border: 1px solid rgba(139, 124, 124, 0.8);
   padding: 25px;
   font-size: 40px;
