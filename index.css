@@ -248,3 +248,7 @@ a[href^="tel"]::before {
     width: 100%;
   }
 }*/
+
+div {
+  display: block;
+}
