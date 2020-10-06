@@ -185,7 +185,7 @@ a[href^="tel"]::before {
   font-size: xx-large;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 400px) {
   .landing,
   .grid-container,
   .container,
@@ -243,8 +243,8 @@ a[href^="tel"]::before {
   background-position: top;
 }
 
-@media (max-width: 420px) {
+/*@media (max-width: 420px) {
   #parentC, #personal, #education, #skills {
     width: 100%;
   }
-}
+}*/
