@@ -103,6 +103,17 @@ a .fa:hover {
   padding: 10px;
 }
 
+.phone{
+  display: none;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: absolute;
+  left: -1000000px;
+}
+
 .grid-item {
   width: 100%;
   background-color: rgba(24, 9, 66, 0.8);
