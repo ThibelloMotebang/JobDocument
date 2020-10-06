@@ -215,6 +215,7 @@ a[href^="tel"]::before {
   background-size: cover;
   background-position: top;
   width:100%;
+  margin: 0px;
 }
 
 @media (max-width: 800px) {
