@@ -138,11 +138,11 @@ a .fa:hover {
 }
 
 .skillArea p {
-  color: rgb(236 198 202);
+  color: #f37329;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-weight: bold;
-  font-size: larger;
+  font-size: x-large;
   letter-spacing: 2px;
   text-align: left;
 }
@@ -150,7 +150,8 @@ a .fa:hover {
 .skillArea p:nth-child(2) {
   float: right;
   position: relative;
-  top: -30px;
+  top: -45px;
+  font-size: x-large;
 }
 
 .skill {
