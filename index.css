@@ -185,16 +185,11 @@ a[href^="tel"]::before {
   font-size: xx-large;
 }
 
-@media screen and (max-width: 800px) {
-  .landing,
-  .grid-container,
-  .container,
-  .grid-item,
-  .grid-container,
-  .profile-image-wrapper img {
-    width: 100%;
-    float: center;
-    padding: 0;
+@media only screen and (max-device-width: 480px), only screen and (-webkit-min-device-pixel-ratio: 2) , screen and (-webkit-device-pixel-ratio:1.5){
+  .container {
+      width: 90%;
+      min-width: 480px;
+      margin: auto;
   }
 }
 
@@ -242,4 +237,3 @@ a[href^="tel"]::before {
   background-size: cover;
   background-position: top;
 }
-
