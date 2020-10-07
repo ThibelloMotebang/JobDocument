@@ -224,12 +224,12 @@ a[href^="tel"]::before {
   background-position: top;
 }
 
-#achievement{
+/*#achievement{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
-}
+}*/
 
 #contact{
   background-repeat: no-repeat;
