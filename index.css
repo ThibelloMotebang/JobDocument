@@ -13,6 +13,14 @@ body {
 .container {
   max-width: fit-content;
 }
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  min-width: 1000px;
+  height: auto;
+}
 
 .landing {
   margin: 125px auto;
