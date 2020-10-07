@@ -229,10 +229,11 @@ a[href^="tel"]::before {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  width: 100%;
 }
 
 #contact{
-  background-image: url("/JobDocument/images/last.jpg");
+ 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
