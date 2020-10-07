@@ -1,6 +1,4 @@
 body {
-  margin: 0px;
-  padding: 0px;
   position: relative;
   background-image: linear-gradient(
       rgba(62, 61, 73, 0.8),
@@ -10,6 +8,7 @@ body {
   background-size: cover;
   background-position: center;
   color: #fff !important;
+  width: 100%;
 }
 
 .container {
