@@ -12,6 +12,8 @@ body {
 
 .container {
   max-width: fit-content;
+  min-width: 1000px;
+    height: auto;
 }
 .container-fluid {
   padding-right: 15px;
