@@ -225,7 +225,6 @@ a[href^="tel"]::before {
 }
 
 #achievement{
-  background-image: url("/JobDocument/images/far.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -233,7 +232,6 @@ a[href^="tel"]::before {
 }
 
 #contact{
- 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
