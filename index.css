@@ -105,7 +105,7 @@ a .fa:hover {
 .grid-containerE{
   width: 100%;
   height: auto;
-  display: grid;
+  display: table-cell;
   grid-template-columns: auto auto;
   padding: 10px;
 }
