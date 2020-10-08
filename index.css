@@ -246,10 +246,10 @@ a[href^="tel"]::before {
   background-position: top;
 }
 
-@media only screen and (max-device-width: 1000px), only screen and (-webkit-min-device-pixel-ratio: 2) , screen and (-webkit-device-pixel-ratio:1.5){
+@media only screen and (max-device-width: 1020px), only screen and (-webkit-min-device-pixel-ratio: 2) , screen and (-webkit-device-pixel-ratio:1.5){
   .container, .container-fluid, .position,.grid-container, .landing {
       width: 100%;
-      min-width: 800px;
+      min-width: 1000px;
       margin: auto;
   }
 }
