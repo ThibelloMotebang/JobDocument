@@ -42,7 +42,7 @@ h1 {
   margin-top: 50px;
   letter-spacing: 2px;
   color: rgb(212, 188, 188);
-  font-size: large;
+  font-size: x-large;
   width: 100%;
 }
 
@@ -110,7 +110,7 @@ a .fa:hover {
   height: auto;
   display: grid;
   grid-template-columns: auto auto;
-  padding: 0px;
+  padding: 35px;
 }
 .grid-containerE{
   width: 100%;
