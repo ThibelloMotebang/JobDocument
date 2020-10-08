@@ -46,6 +46,16 @@ h1 {
   width: 100%;
 }
 
+.description2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  margin-top: 50px;
+  letter-spacing: 2px;
+  color: rgb(212, 188, 188);
+  font-size: x-large;
+  width: 100%;
+}
+
 .social {
   margin-top: 50px;
   margin-bottom: 45px;
