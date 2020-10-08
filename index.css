@@ -251,6 +251,7 @@ a[href^="tel"]::before {
       width: 100%;
       min-width: 1100px;
       height: auto;
+      margin-top: 50px;
       margin: auto;
   }
 }
