@@ -245,3 +245,11 @@ a[href^="tel"]::before {
   background-size: cover;
   background-position: top;
 }
+
+@media only screen and (max-device-width: 480px), only screen and (-webkit-min-device-pixel-ratio: 2) , screen and (-webkit-device-pixel-ratio:1.5){
+  .container, .container-fluid {
+      width: 90%;
+      min-width: 480px;
+      margin: auto;
+  }
+}
