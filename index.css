@@ -251,6 +251,7 @@ a[href^="tel"]::before {
 }
 
 #contact{
+  background-image: url("/JobDocument/images/lights.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
