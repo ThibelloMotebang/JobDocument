@@ -198,7 +198,13 @@ a .fa:hover {
   height: 10px;
 }
 
-.description2 {
+.contact {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 25px 0;
+}
+
+.contact p{
   font-family: monospace;
   font-weight: bolder;
   margin-top: 80px;
@@ -207,6 +213,7 @@ a .fa:hover {
   width: 100%;
   text-align: center;
 }
+
 
 a[href^="mailto"]::before {
   content: "📧 ";
